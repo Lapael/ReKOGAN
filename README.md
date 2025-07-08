@@ -40,4 +40,16 @@ ReKOGAN은 한글 손글씨 이미지를 생성하는 AI 프로젝트이다.
 
 왼쪽 위가 epoch1 오른쪽 아래가 epoch100
 <br />
-<br />ㅇㅁㄴㅇ
+<br />이를 보면 초중반에는 학습이 진행되다가 후반에는 노이즈가 낀 것처럼 이미지가 명확하지 않아진다.
+<br />또한 후반부로 갈수록 '가'와 다른 '차', '핀', '긴'등과 가까워 보이는 이미지가 생성되고 있다.
+<br />
+<br />이를 기반으로 Mode Collapse, Conditional Mode Collapse, Label Collapse 등이 일어났다는 것을 유추할 수 있다.
+<br />이러한 Collapse들은 생성자가 판별자를 속이기 위한 쉬운 길을 찾으며 발생한다.
+<br />
+<br />그나마 생성을 잘 한것 같은 epoch8의 모델을 불러와 생성을 해보면
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/3ddb1d3e-6f93-4463-8909-15a568b4386f" alt="가" width="250"> | <img src="https://github.com/user-attachments/assets/fff59981-e5b5-45d6-82fb-a07a007cb728" alt="다" width="250"> | <img src="https://github.com/user-attachments/assets/8e7e8457-c3c7-45c2-9223-cc1f66cbcf05" alt="각" width="250">
+     |
+
