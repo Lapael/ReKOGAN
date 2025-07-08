@@ -23,8 +23,8 @@ ReKOGAN은 한글 손글씨 이미지를 생성하는 AI 프로젝트이다.
 <br />
 ## Train
 학습은 epochs 100, batch 128로 진행하였고 각 epoch마다 '가'이미지 샘플을 만들어 저장하였다.
-### Generated Samples (Epoch 1-100)
-
+<br />
+<br />
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="train/samples/b0a1/sample_epoch_1.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_2.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_3.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_4.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_5.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_6.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_7.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_8.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_9.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_10.png" alt="" width="80"> |
