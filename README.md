@@ -51,5 +51,4 @@ ReKOGAN은 한글 손글씨 이미지를 생성하는 AI 프로젝트이다.
 | | | |
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/3ddb1d3e-6f93-4463-8909-15a568b4386f" alt="가" width="250"> | <img src="https://github.com/user-attachments/assets/fff59981-e5b5-45d6-82fb-a07a007cb728" alt="다" width="250"> | <img src="https://github.com/user-attachments/assets/8e7e8457-c3c7-45c2-9223-cc1f66cbcf05" alt="각" width="250">
-     |
 
