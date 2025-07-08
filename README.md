@@ -14,3 +14,7 @@ ReKOGAN은 한글 손글씨 이미지를 생성하는 AI 프로젝트이다.
 <br />cGAN은 External Information을 train중에 받는데 여기서 external info는 label에 해당된다.
 <br />
 ## Datasets
+이 프로젝트에 사용된 데이터셋은 callee2006의 HangulDB 중 SERI이다. (https://github.com/callee2006/HangulDB)
+<br />SERI는 가장 빈번히 사용되는 한글 520글자 각각 900개의 손글씨 이미지로 구성되어 있다.
+<br />이에 대한 label은 EUC-KR방식을 사용하였다.
+<br />ex) b0a1 -> 가
