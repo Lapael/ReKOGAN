@@ -52,4 +52,9 @@ ReKOGAN은 한글 손글씨 이미지를 생성하는 AI 프로젝트이다.
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/3ddb1d3e-6f93-4463-8909-15a568b4386f" alt="가" width="100"> | <img src="https://github.com/user-attachments/assets/fff59981-e5b5-45d6-82fb-a07a007cb728" alt="다" width="100"> | <img src="https://github.com/user-attachments/assets/8e7e8457-c3c7-45c2-9223-cc1f66cbcf05" alt="자" width="100">
 
-순서대로 '가', '다', '자'을 생성한 결과이다.
+순서대로 '가', '다', '각'을 생성한 결과이다.
+<br />잘 생성되는 문자도 있지만, 그렇지 않은 문자도 있는 것이 확인된다.
+<br />이는 곧 Conditional Mode Collapse, Label Collapse이 일어났을 가능성을 높여준다.
+<br />아마도 이러한 문제는 각 글자마다 특성의 명확도(규칙성 등)이 다르기 때문에 일어났을 것으로 보인다.
+<br />또는 생성자 혹은 판별자가 상대에 비해 너무 빠르게 발전해서 두 모델 사이의 불균형으로 인해 발생했을 수 있다.
+<br />이를 해결하기 위해 학습률 등의 하이퍼파라미터를 수정해가며 학습시켜 개선할 수 있을 것이다.
