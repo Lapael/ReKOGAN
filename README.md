@@ -5,7 +5,7 @@ ReKOGAN은 한글 손글씨 이미지를 생성하는 AI 프로젝트이다.
 <br />
 <br />GAN은 Generator과 Discriminator의 적대적 학습을 통해 훈련하는 생성형 인공지능의 종류 중 하나이다.
 <br />
-<img src="[YOUR_IMAGE_URL](https://github.com/user-attachments/assets/89fb2d12-f7c3-405a-8909-d6c8ab70cd22)" width="500">
+<img src="[YOUR_IMAGE_URL](https://github.com/user-attachments/assets/89fb2d12-f7c3-405a-8909-d6c8ab70cd22)" alt="" width="500">
 <br />Generator가 생성하면 그 생성된 것이 Real인지 Fake인지 Discriminator가 판단한다.
 <br />이를 반복하며 Generator가 Real을 더 잘 생성할 수 있도록 학습하는 방법이 GAN이다.
 <br />
