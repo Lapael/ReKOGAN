@@ -141,12 +141,19 @@ AI-hub의 한국어 글자체 이미지
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="train/samples/b0a1/sample_epoch_1.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_10.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_13.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_22.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_29.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_42.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_46.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_49.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_96.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_100.png" alt="" width="80"> |
 1|10|13|22|29|42|46|49|96|100
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 이 중에서 개인적으로 가장 잘 나온 것 같은 22번을 선택해 모든 글자를 생성해보면 다음과 같다.
 <br />
 <br />
-<br />
-<br />
+
 
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -202,3 +209,15 @@ AI-hub의 한국어 글자체 이미지
 | <img src="GAN/generated/ALL_22/generated_c7df_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7e0_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7e2_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7e3_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7e5_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7e8_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7f4_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7f5_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7f6_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c7f9_epoch22.png?raw=true" alt="" width="80"> |
 | <img src="GAN/generated/ALL_22/generated_c7fc_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8a3_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8a4_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8a5_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8ab_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8ad_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8ae_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8af_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8b0_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8b2_epoch22.png?raw=true" alt="" width="80"> |
 | <img src="GAN/generated/ALL_22/generated_c8b8_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8b9_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8bf_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8c4_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8c6_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8d6_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8ef_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8f1_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8f7_epoch22.png?raw=true" alt="" width="80"> | <img src="GAN/generated/ALL_22/generated_c8fb_epoch22.png?raw=true" alt="" width="80"> |
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />이를 통해 프로젝트 주제인 "인공지능 손글씨"를 인공지능 손글씨로 만들어 보았다.
+<br />
+
+| | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="GAN/generated/22/1.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/2.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/3.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/4.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/5.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/6.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/7.png?raw=true" alt="" width="80"> |
