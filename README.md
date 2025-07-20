@@ -140,3 +140,4 @@ AI-hub의 한국어 글자체 이미지
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="train/samples/b0a1/sample_epoch_1.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_10.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_13.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_22.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_29.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_42.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_46.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_49.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_96.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_100.png" alt="" width="80"> |
+1|10|13|22|29|42|46|49|96|100
