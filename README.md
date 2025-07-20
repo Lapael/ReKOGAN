@@ -135,3 +135,8 @@ AI-hub의 한국어 글자체 이미지
 왼쪽 위가 epoch1 오른쪽 아래가 epoch100
 <br />
 <br />그 결과, 다음과 같이 끝까지 '가'의 특징이 잘 남아있는 것을 알 수 있다.
+<br />여기서 특징성 있는 일부 epoch만을 파일에 올려두었다. (1, 10, 13, 22, 29, 42, 46, 49, 96, 100)
+
+| | | | | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="train/samples/b0a1/sample_epoch_1.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_2.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_3.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_4.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_5.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_6.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_7.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_8.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_9.png" alt="" width="80"> | <img src="train/samples/b0a1/sample_epoch_10.png" alt="" width="80"> |
