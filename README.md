@@ -221,3 +221,11 @@ AI-hub의 한국어 글자체 이미지
 | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="GAN/generated/22/1.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/2.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/3.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/4.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/5.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/6.png?raw=true" alt="" width="80"> | <img src="GAN/generated/22/7.png?raw=true" alt="" width="80"> |
+
+<br />
+<br />
+## 마치며
+아직 520개의 글자만 생성할 수 있고, 그 520개의 글자 또한 완벽히 생성할 수 있는 것은 아니지만, 이 경험은 나에게 있어서 매우 독특하고 흥미로운 경험이 되었다.
+<br />추후 11,172개의 모든 글자를 완벽히 생성할 수 있는 AI를 만들 수 있게 되기를 기원하며 이 프로젝트를 마치도록 하겠다.
+<br />
+<br />by 30518 오은성
