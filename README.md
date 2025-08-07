@@ -1,4 +1,7 @@
 # ReKOGAN
+## Use
+https://huggingface.co/spaces/eunsung07/ReKoGAN
+<br />
 ## Introduce
 ReKOGAN은 한글 손글씨 이미지를 생성하는 AI 프로젝트이다.
 <br />(여기서 "Re"는 한번 망했다가 다시 진행했기에 붙인 것)
